@@ -1,5 +1,5 @@
-<h1>Hi There, I'm Wispertise <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 # Up to now, there have been ![Visitor Count](https://profile-counter.glitch.me/Wispertise/count.svg) visits
+<h1>Hi There, I'm Wispertise <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 - 🔭 I’m currently studying at GuiZhou University
 - 🌱 I’m currently learning Machine Learning,Computer Vision,Multi Model
 ## Skill Set :muscle:
