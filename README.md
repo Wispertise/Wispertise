@@ -5,6 +5,9 @@
 - 🌱 I’m currently learning Machine Learning,Computer Vision and Large Language model
 - ⚡ Fun fact: I like playing table tennis, play badminton, volleyball, traveling, eating delicious food, etc 
 
+[![163](http://118.178.232.152:8001/blogs/svg/163mail.svg)]()
+[![gmail](http://118.178.232.152:8001/blogs/svg/gmail.svg)]()
+[![WeChat](http://118.178.232.152:8001/blogs/svg/wechat.svg)](http://118.178.232.152:8001/blogs/svg/scxy-search.svg)
 ## Skill Set :muscle:
 These are some of the major technologies that I use or have worked on in the past:
 
