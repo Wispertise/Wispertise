@@ -8,7 +8,7 @@
 [![gmail](http://118.178.232.152:8001/blogs/svg/gmail.svg)]()
 [![WeChat](http://118.178.232.152:8001/blogs/svg/wechat.svg)](http://118.178.232.152:8001/blogs/svg/scxy-search.svg)
 
-visits:![Visitor Count](https://komarev.com/ghpvc/?username=Wispertise&color=green)
+svisits: ![Visitor Count](https://komarev.com/ghpvc/?username=Wispertise&color=green)
 ## Skill Set :muscle:
 These are some of the major technologies that I use or have worked on in the past:
 
