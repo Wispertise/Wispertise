@@ -1,4 +1,3 @@
-# Up to now, there have been ![Visitor Count](https://komarev.com/ghpvc/?username=Wispertise&color=green) visits
 <h1>Hi There, I'm Wispertise <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 - 🔭 I’m currently a graduate student majoring in computer science at Guizhou University
@@ -8,6 +7,8 @@
 [![163](http://118.178.232.152:8001/blogs/svg/163mail.svg)]()
 [![gmail](http://118.178.232.152:8001/blogs/svg/gmail.svg)]()
 [![WeChat](http://118.178.232.152:8001/blogs/svg/wechat.svg)](http://118.178.232.152:8001/blogs/svg/scxy-search.svg)
+
+visits:![Visitor Count](https://komarev.com/ghpvc/?username=Wispertise&color=green)
 ## Skill Set :muscle:
 These are some of the major technologies that I use or have worked on in the past:
 
