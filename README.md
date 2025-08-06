@@ -1,4 +1,4 @@
-# Up to now, there have been ![Visitor Count](https://profile-counter.glitch.me/Wispertise/count.svg) visits
+# Up to now, there have been ![Visitor Count](https://komarev.com/ghpvc/?username=Wispertise&color=green) visits
 <h1>Hi There, I'm Wispertise <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 - 🔭 I’m currently a graduate student majoring in computer science at Guizhou University
